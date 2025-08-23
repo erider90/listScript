@@ -1,6 +1,5 @@
 # listScript
 Simple hybrid lisp interpreter 
-Markdown
 
 # ListScript Interpreter
 

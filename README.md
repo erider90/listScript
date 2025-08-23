@@ -73,7 +73,7 @@ factorial(5) returns 120
     type bye to end REPL 
 
 Future Extensions
-Here are some ideas for how you could continue to improve ListScript:
+Here are some ideas for how to improve ListScript:
 
 Source File Execution: Implement a command-line flag, like --run <filename>, that would allow the interpreter to execute a script from a file instead of entering the REPL.
 
